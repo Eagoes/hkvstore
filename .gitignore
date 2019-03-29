@@ -33,7 +33,7 @@ cmake-build-debug/
 .idea/
 .vscode/
 build/
-mergetSort/
+mergeSort/
 genkey.cc
 keys.txt
 
